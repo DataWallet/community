@@ -1,0 +1,12 @@
+baseURL = "https://community.datawallet.com"
+languageCode = "en-us"
+title = "FAQ"
+
+googleAnalytics = ""
+
+
+theme = "hyde"
+[params]
+  themeColor = "theme-base-0d"
+  description = "Some stuff for Datawallet community"
+

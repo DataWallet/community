@@ -9,39 +9,51 @@ theme = "hyde"
   [[menu.main]]
     name = "Get started with Datawallet"
     url = "/"
+    weight = 1
   [[menu.main]]
     name = "How does Datawallet works?"
     url = "/#how-does-datawallet-works"
+    weight = 2
   [[menu.main]]
     name = "Helpful Links"
     url = "/#helpful-links"
+    weight = 3
   [[menu.main]]
     name = "Datawallet token (DXT) supply"
     url = "/#datawallet-token-dxt-supply"
+    weight = 4
   [[menu.main]]
     name = "Team"
     url = "/#team"
+    weight = 5
   [[menu.main]]
     name = "Development Progress"
     url = "/#development-progress"
+    weight = 6
   [[menu.main]]
     name = "DXT Ecosystem & Trading"
     url = "/#dxt-ecosystem-and-trading"
+    weight = 7
   [[menu.main]]
     name = "Where to buy DXT"
     url = "/#where-to-buy-dxt"
+    weight = 8
   [[menu.main]]
     name = "What can I do with DXT"
     url = "/#what-can-i-do-with-dxt"
+    weight = 9
   [[menu.main]]
     name = "Where to store DXT"
     url = "/#where-to-store-dxt"
+    weight = 10
   [[menu.main]]
     name = "Miscellaneous"
     url = "/#where-to-store-dxt"
+    weight = 11
   [[menu.main]]
     name = "Feedback"
     url = "/#feedback"
+    weight = 12
 
 [params]
   themeColor = "theme-base-0d"

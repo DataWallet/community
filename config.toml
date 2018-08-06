@@ -1,14 +1,50 @@
 baseURL = "https://community.datawallet.com/"
 languageCode = "en-us"
-title = "FAQ"
-
+title = "Datawallet"
 publishDir = "docs"
-
 googleAnalytics = ""
-
-
 theme = "hyde"
+
+[menu]
+  [[menu.main]]
+    name = "Get started with Datawallet"
+    url = "/"
+  [[menu.main]]
+    name = "How does Datawallet works?"
+    url = "/#how-does-datawallet-works"
+  [[menu.main]]
+    name = "Helpful Links"
+    url = "/#helpful-links"
+  [[menu.main]]
+    name = "Datawallet token (DXT) supply"
+    url = "/#datawallet-token-dxt-supply"
+  [[menu.main]]
+    name = "Team"
+    url = "/#team"
+  [[menu.main]]
+    name = "Development Progress"
+    url = "/#development-progress"
+  [[menu.main]]
+    name = "DXT Ecosystem & Trading"
+    url = "/#dxt-ecosystem-and-trading"
+  [[menu.main]]
+    name = "Where to buy DXT"
+    url = "/#where-to-buy-dxt"
+  [[menu.main]]
+    name = "What can I do with DXT"
+    url = "/#what-can-i-do-with-dxt"
+  [[menu.main]]
+    name = "Where to store DXT"
+    url = "/#where-to-store-dxt"
+  [[menu.main]]
+    name = "Miscellaneous"
+    url = "/#where-to-store-dxt"
+  [[menu.main]]
+    name = "Feedback"
+    url = "/#feedback"
+
 [params]
   themeColor = "theme-base-0d"
-  description = "Some stuff for Datawallet community"
+  description = "Community Guide"
+  custom_css = ["css/base.css"]
 

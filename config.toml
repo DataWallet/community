@@ -2,6 +2,8 @@ baseURL = "https://community.datawallet.com"
 languageCode = "en-us"
 title = "FAQ"
 
+publishDir = "docs"
+
 googleAnalytics = ""
 
 

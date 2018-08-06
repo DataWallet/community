@@ -1,0 +1,7 @@
+.sidebar-about h1 {
+    font-size: 2.5rem;
+    font-family: GT-America-Extended-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-feature-settings: "dlig","liga","lnum","kern";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

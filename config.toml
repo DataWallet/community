@@ -48,7 +48,7 @@ theme = "hyde"
     weight = 10
   [[menu.main]]
     name = "Miscellaneous"
-    url = "/#where-to-store-dxt"
+    url = "/#miscellaneous"
     weight = 11
   [[menu.main]]
     name = "Feedback"

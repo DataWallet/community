@@ -2,7 +2,7 @@ baseURL = "https://community.datawallet.com/"
 languageCode = "en-us"
 title = "Datawallet"
 publishDir = "docs"
-googleAnalytics = ""
+googleAnalytics = "UA-117415013-1"
 theme = "hyde"
 
 [menu]

@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "GT-America-Extended-Bold";
+    src: url("/fonts/GT-America-Extended-Bold.woff") format("woff");
+    font-weight: bold;
+  }
+
 .theme-base-0d .sidebar {
     background-color: #2642fe;
 }
